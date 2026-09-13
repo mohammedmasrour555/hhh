@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="default-audio",NAME="audio1",DEFAULT=NO,AUTOSELECT=YES,LANGUAGE="ar",URI="https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/OOOOO/audio_audio1.m3u8"
+#EXT-X-STREAM-INF:BANDWIDTH=2592000,RESOLUTION=1920x1080,CODECS="avc1.640028,mp4a.40.2",AUDIO="default-audio"
+https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/OOOOO/video_1080p.m3u8
