@@ -1,12 +1,12 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-TARGETDURATION:6
-#EXT-X-MEDIA-SEQUENCE:24465
-#EXTINF:5.760,
-https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/YY/video_default/IMG_9671587138.jpg
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:24466
 #EXTINF:4.800,
 https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/YY/video_default/IMG_4565401761.jpg
 #EXTINF:4.800,
 https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/YY/video_default/IMG_6610255591.jpg
 #EXTINF:4.800,
 https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/YY/video_default/IMG_2523846764.jpg
+#EXTINF:4.880,
+https://raw.githubusercontent.com/mohammedmasrour555/hhh/main/YY/video_default/IMG_2332334827.jpg
